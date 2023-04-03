@@ -38,7 +38,7 @@ function showGames() {
     for (let i = 0; i < gameDates.length; i++) {
         switch (gameResults[i]) {
             case "W":
-            gameInfo += "<p class='win'>";
+            gameDates += "<p class='win'>";
             break;
             case "L":
             gameInfo += "<p class='lose'>";

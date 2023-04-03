@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Braylon McFaul
+      Date:   03/24/2023
 
       Filename: schedule.js
 */
